@@ -1,0 +1,32 @@
+body {
+  background-color: #ddd;
+}
+h1 {
+  text-align: center;
+  text-shadow: 0 0 5px gray;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+}
+.links {
+  border: 2px solid orange;
+  padding: 5px;
+}
+.links a {
+  display: block;
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 25px;
+  background-color: #ccc;
+}
